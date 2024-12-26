@@ -1,0 +1,74 @@
+/*=============================================================
+LIGHT MODE COLOR PALLET
+================================================================*/
+.light-theme {
+    --primary: #ffffff;
+    --white-1: #f8f8f8;
+    --white-2: #ececf7;
+    --darkpurple: #2e2b3d;
+    --darkpurple-1: #4a485a;
+    --darkpurple-2: #6c697d;
+    --verylightpurple: #9f9bb5;
+    --verylightpurple-1: #c2bfdd;
+    --error-clr: #a03d20;
+    --verylightpurple-2: #f0827b;
+    --verylightpurple-3: #ff7a8d;
+    --verylightpurple-4: #ff93c1;
+    --verylightpurple-5: #ffa3f3;
+    --vibrant-teal: #00b8a9;   
+    --vibrant-teal-1: #2dd4bf;  
+    --vibrant-teal-2: #00796b;
+    --black-clr: #000000;
+    --myblack: #101c2d;
+    --purple-black: #2d2c83; 
+}
+
+/*=============================================================
+COLORED MODE COLOR PALLET
+================================================================*/
+.colored-theme {
+    --primary: #fefedf;
+    --white-1: #fcfdca;
+    --white-2: #f6fa9c;
+    --darkpurple: #352451;
+    --darkpurple-1: #533979;
+    --darkpurple-2: #644394;
+    --verylightpurple: #7751b0;
+    --verylightpurple-1: #845ec2;
+    --error-clr: #3c150e;
+    --verylightpurple-2: #6f2e1f;
+    --verylightpurple-3: #893523;
+    --verylightpurple-4: #a03d20;
+    --verylightpurple-5: #cf5627;
+    --vibrant-teal: #003430;   
+    --vibrant-teal-1: #0c554c;  
+    --vibrant-teal-2: #08675b;
+    --black-clr: #000000;
+    --myblack: #0e0d26;
+    --purple-black: #2d2c83; 
+}
+
+/*=============================================================
+DARK MODE COLOR PALLET
+================================================================*/
+.dark-theme {
+    --primary: #000000;
+    --white-1: #3d3d3d;
+    --white-2: #454545;
+    --darkpurple: #058080;
+    --darkpurple-1: #00aaa9;
+    --darkpurple-2: #04c8c2;
+    --verylightpurple: #1de4dc;
+    --verylightpurple-1: #51f7eb;
+    --error-clr: #3c150e;
+    --verylightpurple-2: #6f2e1f;
+    --verylightpurple-3: #893523;
+    --verylightpurple-4: #a03d20;
+    --verylightpurple-5: #cf5627;
+    --vibrant-teal: #003430;   
+    --vibrant-teal-1: #0c554c;  
+    --vibrant-teal-2: #08675b;
+    --black-clr: #ffffff;
+    --myblack: #dcdcdc;
+    --purple-black: #989898; 
+}
